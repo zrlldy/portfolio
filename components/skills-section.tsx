@@ -23,16 +23,16 @@ const skillGroups = [
     highlight: false,
   },
   {
-    title: "Currently Learning",
-    icon: Terminal,
-    skills: ["TypeScript", "Node.js", "Nest.js", "PostgreSQL"],
-    highlight: true,
-  },
-  {
     title: "Graphics Design",
     icon: Palette,
     skills: ["After Effects", "Illustrator", "Affinity", "Motion Graphics"],
     highlight: false,
+  },
+  {
+    title: "Currently Learning",
+    icon: Terminal,
+    skills: ["TypeScript", "Node.js", "Nest.js", "PostgreSQL"],
+    highlight: true,
   },
 ];
 
