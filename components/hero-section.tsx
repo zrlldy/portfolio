@@ -42,10 +42,10 @@ export function HeroSection() {
             <AnimatedSection delay={400}>
               <div className="pt-2 space-y-4 text-foreground/80 leading-relaxed max-w-2xl">
                 <p>
-                  I build reliable backend systems with a focus on clean
-                  architecture, efficient database design, and maintainable
-                  code. My work centers on creating solutions that solve real
-                  problems through thoughtful engineering.
+                  I am a beginner backend developer who enjoys building
+                  functional systems, learning clean coding practices, and
+                  designing efficient databases. I focus on solving real-world
+                  problems while continuously improving my development skills.
                 </p>
                 <p>
                   Currently expanding my expertise from Laravel and Livewire

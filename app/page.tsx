@@ -1,11 +1,14 @@
-import { Navigation } from "@/components/navigation"
-import { HeroSection } from "@/components/hero-section"
-import { SkillsSection } from "@/components/skills-section"
-import { ProjectsSection } from "@/components/projects-section"
-import { EducationSection } from "@/components/education-section"
-import { BeyondCodingSection } from "@/components/beyond-coding-section"
-import { ContactSection } from "@/components/contact-section"
-import { Footer } from "@/components/footer"
+"use client";
+
+import { Navigation } from "@/components/navigation";
+import { HeroSection } from "@/components/hero-section";
+import { SkillsSection } from "@/components/skills-section";
+import { ProjectsSection } from "@/components/projects-section";
+import { EducationSection } from "@/components/education-section";
+import { BeyondCodingSection } from "@/components/beyond-coding-section";
+import { ContactSection } from "@/components/contact-section";
+import { Footer } from "@/components/footer";
+import Snowfall from "react-snowfall";
 
 export default function HomePage() {
   return (
@@ -19,5 +22,5 @@ export default function HomePage() {
       <ContactSection />
       <Footer />
     </main>
-  )
+  );
 }
